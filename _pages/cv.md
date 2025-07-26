@@ -9,56 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
+Basic
+======
+​​*Born: December 1996​
+*party: Member of the Communist Party of China
+*Currently employed as a postdoctoral researcher at the School of Physics and Astronomy, Beijing Normal University.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in BeiJing Normal University, 2025
+* M.S. in LiaoCheng Univeristy,  2022
+* B.S. in LiaoCheng University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* China Resources Snow Breweries，2017.10-2017.11
+ 
+* Hengrui Pharmaceutical​，2018.12-2019.01
+ 
+* NHU Pharmaceutical，2019.02-2019.07
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer-Aided Drug Design
+  * Homology Modeling 
+  * Design Optimization for Structures
+  * Molecular Dynamics Simulation
 
-Publications
+* ​Antineoplastic Drugs​​ 
+  * Target screening
+  * Bioactivity Assessment
+  * Mechanistic Study
+
+* Radiopharmaceutical Drugs
+  * PET
+  * SPECT
+
+Publications (1st. author)
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* J Med Chem,  2024, 67(24): 21644-21670.
+* J Med Chem,  2024, 67(24): 21644-21670.
+* J Med Chem,  2021, 64(24): 17920-17935.
+* Mol Pharmaceutics,  2024, 21(10): 5305-5314.
+* Dalton Trans,  2022, 51(33): 12604-12619.
+* Dalton Trans, 2021, 50(1):362-375.
+* Monatsh Chem,  2020, 151(3): 353-367.
+* J Liaocheng Univ , 2020, 33(5): 97-103. 
+* Mini Rew Med Chem , 2025, XX
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* The First-Class Award for Excellent Graduate Research at Liaocheng University
+* The Excellent Poster Award at the 17th National Academic Conference on Radiopharmaceuticals and Labeled Compounds，Xian
+* Atomic High-Tech Scholarship for Ph.D. Candidates
+
+About Me
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Be true to yourself, and respect others.
